@@ -1,6 +1,6 @@
 ## BLOCK-writeCode
 
-#### Path
+#### Path.
 Q. Suppose we have 3 files inside a directory on desktop
 The structure is
   - node(folder)
