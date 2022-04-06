@@ -1,6 +1,6 @@
 ## BLOCK-writeCode
 
-#### path
+#### path.
 Q. Suppose on desktop, inside projects we have 2 folder each with a file
 Structure is:-
 Desktop
